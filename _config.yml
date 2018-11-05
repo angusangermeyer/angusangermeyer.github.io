@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Angus Angermeyer"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Angus Angermeyer"
 description              : &description "personal description"
